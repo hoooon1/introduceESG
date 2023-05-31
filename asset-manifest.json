@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/introduceESG/static/css/main.f68d0651.css",
+    "main.js": "/introduceESG/static/js/main.c1fa2473.js",
+    "static/js/787.95ee19fa.chunk.js": "/introduceESG/static/js/787.95ee19fa.chunk.js",
+    "static/media/NotoSansKR-Light.otf": "/introduceESG/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
+    "static/media/esg.png": "/introduceESG/static/media/esg.14c2764664240cc3501a.png",
+    "static/media/DoHyeon-Regular.ttf": "/introduceESG/static/media/DoHyeon-Regular.33a15385076163ccf1b8.ttf",
+    "static/media/IntroduceESG3.png": "/introduceESG/static/media/IntroduceESG3.01111b41a354df04c85e.png",
+    "static/media/IntroduceESG4.png": "/introduceESG/static/media/IntroduceESG4.6b1c006aa40ccd0ceff1.png",
+    "static/media/IntroduceESG.png": "/introduceESG/static/media/IntroduceESG.0f01b8b112df6f21bbd4.png",
+    "static/media/IntroduceESG2.png": "/introduceESG/static/media/IntroduceESG2.0ddd4bebf8ff496f285d.png",
+    "index.html": "/introduceESG/index.html",
+    "main.f68d0651.css.map": "/introduceESG/static/css/main.f68d0651.css.map",
+    "main.c1fa2473.js.map": "/introduceESG/static/js/main.c1fa2473.js.map",
+    "787.95ee19fa.chunk.js.map": "/introduceESG/static/js/787.95ee19fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68d0651.css",
+    "static/js/main.c1fa2473.js"
+  ]
+}
