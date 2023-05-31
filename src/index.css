@@ -1,0 +1,32 @@
+.content-header {
+    height: 200px;
+    width: 100%;
+    position: relative;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+    opacity: 0.9;
+    text-align: center;
+
+ }
+.content-header::before{
+  content:"";
+  background-image: url(../public/img/esg.png);
+  object-fit: none;
+  opacity: 1;
+  position:absolute;
+  top:0px;
+  left:0px;
+  right:0px;
+  bottom:0px;
+  z-index: -1;
+}
+
+.content-header strong{
+  line-height: 200px; /*div height와 같게 해야함*/
+  text-align: center;
+  display: block;
+  font-size: 50px;
+  color: white;
+ }
+
