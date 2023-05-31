@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/introduceESG/static/css/main.f68d0651.css",
-    "main.js": "/introduceESG/static/js/main.c1fa2473.js",
+    "main.js": "/introduceESG/static/js/main.f12c4339.js",
     "static/js/787.95ee19fa.chunk.js": "/introduceESG/static/js/787.95ee19fa.chunk.js",
     "static/media/NotoSansKR-Light.otf": "/introduceESG/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
     "static/media/esg.png": "/introduceESG/static/media/esg.14c2764664240cc3501a.png",
@@ -12,11 +12,11 @@
     "static/media/IntroduceESG2.png": "/introduceESG/static/media/IntroduceESG2.0ddd4bebf8ff496f285d.png",
     "index.html": "/introduceESG/index.html",
     "main.f68d0651.css.map": "/introduceESG/static/css/main.f68d0651.css.map",
-    "main.c1fa2473.js.map": "/introduceESG/static/js/main.c1fa2473.js.map",
+    "main.f12c4339.js.map": "/introduceESG/static/js/main.f12c4339.js.map",
     "787.95ee19fa.chunk.js.map": "/introduceESG/static/js/787.95ee19fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f68d0651.css",
-    "static/js/main.c1fa2473.js"
+    "static/js/main.f12c4339.js"
   ]
 }
